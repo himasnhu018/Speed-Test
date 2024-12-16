@@ -24,7 +24,7 @@ This is a simple speed test website that allows users to test their internet dow
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/Speed-Test.git
+   git clone https://github.com/himasnhu018/Speed-Test.git
    cd Speed-Test
 npm install
 node index.js
@@ -44,4 +44,4 @@ node index.js
 8. **Contributing**: Encourages others to contribute by forking the project and submitting pull requests.
 9. **License**: Specifies the licensing under the MIT License.
 
-Feel free to replace the placeholders (like `https://github.com/your-username/speed-test-website.git`) with the actual values specific to your project.
+Feel free to replace the placeholders (like `https://github.com/himasnhu018/Speed-Test.git`) with the actual values specific to your project.
