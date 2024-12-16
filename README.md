@@ -25,7 +25,7 @@ This is a simple speed test website that allows users to test their internet dow
 
    ```bash
    git clone https://github.com/your-username/Speed-Test.git
-   cd Seed-Test
+   cd Speed-Test
 npm install
 node index.js
 
